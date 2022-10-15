@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - C program that prints exactly "Programming is like building a multilingual puzzle"
+ * main -C program that prints exactly text
  *
  * Return: 0
  */
