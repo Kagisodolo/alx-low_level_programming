@@ -3,13 +3,12 @@
 /**
  * print_last_digit - prints the last digit of a number.
  * @n : the input number to be operated.
- * Return: 1 when success.
+ * Return: last digit of a number then success.
  */
 
 int print_last_digit(int n)
 {
 	int lastDigit = n % 10;
 
-	_putchar(lastDigit);
-	return (1);
+	return (lastDigit);
 }
